@@ -37,10 +37,11 @@ I build backend services and education tools with Go and Python, connecting web 
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Dragonzz27/mixm">
-  <img align="center" width="460" src="./assets/mixm-card.svg" alt="mixm — A Go/Vue education platform with assignments, assessments, Kubernetes lab environments, and a Python/PyTorch inference service." />
-</a>
-
-<a href="https://github.com/Dragonzz27/ongrid">
-  <img align="center" width="460" src="./assets/ongrid-card.svg" alt="ongrid — A fork of ongridio/ongrid, an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management." />
-</a>
+<p>
+  <a href="https://github.com/Dragonzz27/mixm">
+    <img width="49%" src="./assets/mixm-card.svg" alt="mixm — A Go/Vue education platform with assignments, assessments, Kubernetes lab environments, and a Python/PyTorch inference service." />
+  </a>
+  <a href="https://github.com/Dragonzz27/ongrid">
+    <img width="49%" src="./assets/ongrid-card.svg" alt="ongrid — A fork of ongridio/ongrid, an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management." />
+  </a>
+</p>
