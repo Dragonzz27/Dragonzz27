@@ -34,15 +34,3 @@ I build backend services and education tools with Go and Python, connecting web 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=326CE5&color=326CE5)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=FCC624)
-
-## 🗂️ Highlight Projects
-
-<p align="center">
-  <a href="https://github.com/Dragonzz27/mixm">
-    <img width="45%" src="./assets/mixm-card.svg" alt="mixm — A Go/Vue education platform with assignments, assessments, Kubernetes lab environments, and a Python/PyTorch inference service." />
-  </a>
-  &emsp;&emsp;
-  <a href="https://github.com/Dragonzz27/ongrid">
-    <img width="45%" src="./assets/ongrid-card.svg" alt="ongrid — A fork of ongridio/ongrid, an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management." />
-  </a>
-</p>
