@@ -44,3 +44,9 @@ I specialize in crafting scalable, impactful solutions—from quirky side projec
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake.svg">
+</picture>
