@@ -38,13 +38,9 @@ I build backend services and education tools with Go and Python, connecting web 
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Dragonzz27/mixm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonzz27&amp;repo=mixm&amp;show_icons=true&amp;line_height=27&amp;title_color=6aa6f8&amp;text_color=8a919a&amp;icon_color=6aa6f8&amp;bg_color=22272e" alt="mixm repository card" />
+  <img align="center" width="460" src="./assets/mixm-card.svg" alt="mixm — A Go/Vue education platform with assignments, assessments, Kubernetes lab environments, and a Python/PyTorch inference service." />
 </a>
-
-[**mixm**](https://github.com/Dragonzz27/mixm) — A Go/Vue education platform with assignments, assessments, Kubernetes lab instances, and a Python/PyTorch inference service.
 
 <a href="https://github.com/Dragonzz27/ongrid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonzz27&amp;repo=ongrid&amp;show_icons=true&amp;line_height=27&amp;title_color=6aa6f8&amp;text_color=8a919a&amp;icon_color=6aa6f8&amp;bg_color=22272e" alt="ongrid repository card" />
+  <img align="center" width="460" src="./assets/ongrid-card.svg" alt="ongrid — A fork of ongridio/ongrid, an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management." />
 </a>
-
-[**ongrid**](https://github.com/Dragonzz27/ongrid) — A fork of [ongridio/ongrid](https://github.com/ongridio/ongrid), an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management.
