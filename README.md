@@ -1,52 +1,50 @@
-# 👋 Hey there, I'm Ashton!
-Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
+# 👋 Hey there, I'm Dragonzz!
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+📍 Shanghai · East China University of Science and Technology
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+I build backend services and education tools with Go and Python, connecting web applications with Kubernetes infrastructure and machine learning services.
 
-🔭 Leading teams on transformative projects to reshape industries.
+🔭 Building [mixm](https://github.com/Dragonzz27/mixm), an education platform with teaching workflows, assessment tools, and Kubernetes-powered lab environments.
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
-
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+🌱 Exploring cloud-native infrastructure, observability, and AI-assisted operations through projects such as [ongrid](https://github.com/Dragonzz27/ongrid).
 
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
+**Frameworks and Libraries:**
+
+![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=gin&logoColor=white&color=6aa6f8)
+![GORM](https://img.shields.io/badge/Library-GORM-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=6aa6f8)
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+
+**Databases and Messaging:**
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+![RabbitMQ](https://img.shields.io/badge/Messaging-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/Dragonzz27/mixm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonzz27&amp;repo=mixm&amp;show_icons=true&amp;line_height=27&amp;title_color=6aa6f8&amp;text_color=8a919a&amp;icon_color=6aa6f8&amp;bg_color=22272e" alt="mixm repository card" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+[**mixm**](https://github.com/Dragonzz27/mixm) — A Go/Vue education platform with assignments, assessments, Kubernetes lab instances, and a Python/PyTorch inference service.
+
+<a href="https://github.com/Dragonzz27/ongrid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonzz27&amp;repo=ongrid&amp;show_icons=true&amp;line_height=27&amp;title_color=6aa6f8&amp;text_color=8a919a&amp;icon_color=6aa6f8&amp;bg_color=22272e" alt="ongrid repository card" />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dragonzz27/Dragonzz27/output/github-contribution-grid-snake.svg">
-</picture>
+[**ongrid**](https://github.com/Dragonzz27/ongrid) — A fork of [ongridio/ongrid](https://github.com/ongridio/ongrid), an ops AI Agent for infrastructure observability, root-cause analysis, and Kubernetes management.
